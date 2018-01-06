@@ -4,7 +4,7 @@ var method = {};
 
 // prepare everything our method needs
   method.init = function() {
-  this.name = 'limittrade';
+  this.name = 'limit';
   this.previousAction = this.settings.previousAction;
   this.previousActionPrice = this.settings.previousActionPrice;
   this.posisimentok = this.settings.posisimentok;
