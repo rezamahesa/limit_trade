@@ -1,0 +1,3 @@
+previousAction = "buy" # buy atau sell atau mulai
+previousActionPrice = 0
+posisimentok = 0
